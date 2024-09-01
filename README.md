@@ -1,0 +1,1 @@
+"# bmjr-springJPA-maping" 
